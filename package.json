@@ -1,0 +1,14 @@
+{
+  "name": "nodejsrobot-master",
+  "version": "1.0.0",
+  "description": "爬取某个站点下所有的网页以及静态资源",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.9"
+  }
+}
